@@ -1,0 +1,12 @@
+EvolvedRecipeName_HU = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Bolognai konzerv",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Répa konzerv",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Chili konzerv",
+	EvolvedRecipeName_Base.CannedCornOpen = "Kukorica konzerv",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Marhahús konzerv",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Borsó konzerv",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Krumpli konzerv",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Szardínia konzerv",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Paradicsom konzerv",
+	EvolvedRecipeName_Base.Teabag2 = "Tea",
+}

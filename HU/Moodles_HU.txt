@@ -104,6 +104,11 @@ Moodles_HU = {
 	Moodles_hypothermia_lvl2 = "Kihűl",
 	Moodles_hypothermia_lvl3 = "Megfagy",
 	Moodles_hypothermia_lvl4 = "Hipotermiás",
+    -- Windchill
+    Moodles_windchill_lvl1 = "Enyhe szellő",
+    Moodles_windchill_lvl2 = "Kellemetlen szél",
+    Moodles_windchill_lvl3 = "Fagyos szél",
+    Moodles_windchill_lvl4 = "Iszonyatos szél",
 
 	-- Description of moodle
 	-- Endurance
@@ -208,6 +213,11 @@ Moodles_HU = {
 	-- Hypothermia
 	Moodles_hypothermia_desc_lvl1 = "Kissé csípős az idő errefelé...",
 	Moodles_hypothermia_desc_lvl2 = "Jó lenne valami módon melegen tartani.",
-	Moodles_hypothermia_desc_lvl3 = "A test és a lélek a hideg megszállottja. Komoly veszélyben az egészség.",
-	Moodles_hypothermia_desc_lvl4 = "Émelyeg a hőguta és a túl sok hideg miatt. Súlyosan veszélyeztetett.",
+	Moodles_hypothermia_desc_lvl3 = "A test és az elme kábult a hidegtől. Komoly veszélyben az egészség.",
+	Moodles_hypothermia_desc_lvl4 = "Halálra fagy. Súlyos veszélyben van.",
+    -- Windchill
+    Moodles_windchill_desc_lvl1 = "5-10 fokkal hidegebb hőérzet.",
+    Moodles_windchill_desc_lvl2 = "10-15 fokkal hidegebb hőérzet.",
+    Moodles_windchill_desc_lvl3 = "15-20 fokkal hidegebb hőérzet.",
+    Moodles_windchill_desc_lvl4 = "Több mint 20 fokkal hidegebb hőérzet.",
 }

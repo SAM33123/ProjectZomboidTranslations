@@ -1,0 +1,38 @@
+MakeUp_HU = {
+    MakeUpCategory_Eyes = "Szemek",
+    MakeUpCategory_EyesShadow = "Szemhéj",
+    MakeUpCategory_FullFace = "Teljes arc",
+    MakeUpCategory_Lips = "Ajkak",
+
+    MakeUpType_EyesCrow = "Crow",
+    MakeUpType_EyesRedStripes1 = "Vörös csíkok 1",
+    MakeUpType_EyesRedStripes2 = "Vörös csíkok 2",
+    MakeUpType_EyesCamo1 = "Álca 1",
+    MakeUpType_EyesCamo2 = "Álca 2",
+    MakeUpType_EyesCamoStripes = "Csíkok",
+    MakeUpType_EyesFootball = "Amerikai futball",
+
+    MakeUpType_EyeShadowWhite = "Fehér szemhéjfesték",
+    MakeUpType_EyeShadowLightBlue = "Világoskék szemhéjfesték",
+    MakeUpType_EyeShadowBlue = "Kék szemhéjfesték",
+    MakeUpType_EyeShadowRed = "Piros szemhéjfesték",
+    MakeUpType_EyeShadowPink = "Rózsaszín szemhéjfesték",
+    MakeUpType_EyeShadowGreen = "Zöld szemhéjfesték",
+    MakeUpType_EyeShadowYellow = "Sárga szemhéjfesték",
+
+    MakeUpType_FullFaceCamo1 = "Álca 1",
+    MakeUpType_FullFaceCamo2 = "Álca 2",
+    MakeUpType_FullFaceWarrior = "Harcos",
+    MakeUpType_FullFaceClown1 = "Bohóc 1",
+    MakeUpType_FullFaceClown2 = "Bohóc 2",
+    MakeUpType_FullFaceSkull1 = "Koponya 1",
+    MakeUpType_FullFaceSkull2 = "Koponya 2",
+
+    MakeUpType_LipsRed = "Vörös rúzs",
+    MakeUpType_LipsLightBlue = "Világoskék rúzs",
+    MakeUpType_LipsBlue = "Kék rúzs",
+    MakeUpType_LipsBlack = "Fekete rúzs",
+    MakeUpType_LipsGreen = "Zöld rúzs",
+    MakeUpType_LipsPink = "Rózsaszín rúzs",
+}
+

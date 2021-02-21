@@ -1,0 +1,28 @@
+MultiStageBuild_HU = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Fa fal építése Lvl 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Fejlesztés Lvl 2-re",
+    MultiStageBuild_CreateWoodenWall_2 = "Fa fal építése Lvl 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Fejlesztés Lvl 3-ra",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Fejlesztés Lvl 3-ra",
+    MultiStageBuild_CreateWoodenWall_3 = "Fa fal építése Lvl 3",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Fa ablak építése Lvl 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Fejlesztés Lvl 2-re",
+    MultiStageBuild_CreateWoodenWindow_2 = "Fa ablak építése Lvl 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Fejlesztés Lvl 3-ra",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Fejlesztés Lvl 3-ra",
+    MultiStageBuild_CreateWoodenWindow_3 = "Fa ablak építése Lvl 3",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Fém fal építése Lvl 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Fejlesztés Lvl 2-re",
+    MultiStageBuild_CreateMetalWall_2 = "Fém fal építése Lvl 2",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Fém ablak építése Lvl 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Fejlesztés Lvl 2-re",
+    MultiStageBuild_CreateMetalWindow_2 = "Fém ablak építése Lvl 2",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Fejlesztés Lvl 2-re",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Fejlesztés Lvl 3-ra",
+}
+
